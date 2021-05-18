@@ -1,6 +1,6 @@
 # disp-moveis-app-login
 [DISPOSITIVOS MOVEIS] Atividade 3 - Login
 
-cd disp-moveis-app-login
-yarn install
-yarn start
+<p>cd disp-moveis-app-login</p>
+<p>yarn install</p>
+<p>yarn start</p>
